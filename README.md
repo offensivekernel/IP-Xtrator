@@ -8,3 +8,8 @@ Once Done, you will be displayed the uniq IPs and also the same will be saved in
 This Script is made by @OffensiveKernel
 
 Just a personal script
+
+Anyone can use it as per the use case but specially for SOC - Security Operation Center who are in L3 or network guyz
+
+They can use it to load the logs in txt and then input the same here to get the all unique IPs and then block it via SOAR or in Firewall
+
